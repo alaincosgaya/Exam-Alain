@@ -5,7 +5,7 @@ package controlVersiones;
  * @author Alain
  * @version Version 1,2021
  * @since 24/05/2021
- * 
+ * @see yes
  */
 public class Empleado {
 	private String nombre;
